@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Scrollbars } from 'react-custom-scrollbars';
+import { Scrollbars } from 'rc-custom-scrollbars';
 
 export default class ColoredScrollbars extends Component {
 

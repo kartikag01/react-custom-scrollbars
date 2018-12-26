@@ -19,7 +19,7 @@ react-custom-scrollbars
 
 ## Installation
 ```bash
-npm install react-custom-scrollbars --save
+npm install rc-custom-scrollbars --save
 ```
 
 This assumes that you’re using [npm](http://npmjs.com/) package manager with a module bundler like [Webpack](http://webpack.github.io) or [Browserify](http://browserify.org/) to consume [CommonJS modules](http://webpack.github.io/docs/commonjs.html).
@@ -31,7 +31,7 @@ If you don’t yet use [npm](http://npmjs.com/) or a modern module bundler, and 
 This is the minimal configuration. [Check out the Documentation for advanced usage](https://github.com/lamhieu-vk/react-custom-scrollbars/tree/master/docs).
 
 ```javascript
-import { Scrollbars } from 'react-custom-scrollbars';
+import { Scrollbars } from 'rc-custom-scrollbars';
 
 class App extends Component {
   render() {
@@ -47,7 +47,7 @@ class App extends Component {
 The `<Scrollbars>` component is completely customizable. Check out the following code:
 
 ```javascript
-import { Scrollbars } from 'react-custom-scrollbars';
+import { Scrollbars } from 'rc-custom-scrollbars';
 
 class CustomScrollbars extends Component {
   render() {
