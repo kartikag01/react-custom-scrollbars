@@ -1,9 +1,9 @@
-react-custom-scrollbars
+rc-custom-scrollbars
 =========================
 
 [![npm](https://img.shields.io/badge/npm-react--custom--scrollbars-brightgreen.svg?style=flat-square)]()
-[![npm version](https://img.shields.io/npm/v/react-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/react-custom-scrollbars)
-[![npm downloads](https://img.shields.io/npm/dm/react-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/react-custom-scrollbars)
+[![npm version](https://img.shields.io/npm/v/rc-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/rc-custom-scrollbars)
+[![npm downloads](https://img.shields.io/npm/dm/rc-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/rc-custom-scrollbars)
 
 * frictionless native browser scrolling
 * native scrollbars for mobile devices
@@ -15,7 +15,7 @@ react-custom-scrollbars
 * no extra stylesheets
 * well tested, 100% code coverage
 
-**[Demos](http://malte-wessel.github.io/react-custom-scrollbars/) · [Documentation](https://github.com/lamhieu-vk/react-custom-scrollbars/tree/master/docs)**
+**[Demos](http://malte-wessel.github.io/rc-custom-scrollbars/) · [Documentation](https://github.com/lamhieu-vk/react-custom-scrollbars/tree/master/docs)**
 
 ## Installation
 ```bash
@@ -24,7 +24,7 @@ npm install rc-custom-scrollbars --save
 
 This assumes that you’re using [npm](http://npmjs.com/) package manager with a module bundler like [Webpack](http://webpack.github.io) or [Browserify](http://browserify.org/) to consume [CommonJS modules](http://webpack.github.io/docs/commonjs.html).
 
-If you don’t yet use [npm](http://npmjs.com/) or a modern module bundler, and would rather prefer a single-file [UMD](https://github.com/umdjs/umd) build that makes `ReactCustomScrollbars` available as a global object, you can grab a pre-built version from [unpkg](https://unpkg.com/react-custom-scrollbars@3.0.1/dist/react-custom-scrollbars.js). We *don’t* recommend this approach for any serious application, as most of the libraries complementary to `react-custom-scrollbars` are only available on [npm](http://npmjs.com/).
+If you don’t yet use [npm](http://npmjs.com/) or a modern module bundler, and would rather prefer a single-file [UMD](https://github.com/umdjs/umd) build that makes `ReactCustomScrollbars` available as a global object, you can grab a pre-built version from [unpkg](https://unpkg.com/rc-custom-scrollbars@3.0.1/dist/rc-custom-scrollbars.js). We *don’t* recommend this approach for any serious application, as most of the libraries complementary to `rc-custom-scrollbars` are only available on [npm](http://npmjs.com/).
 
 ## Usage
 
@@ -86,7 +86,7 @@ Run the simple example:
 # Make sure that you've installed the dependencies
 npm install
 # Move to example directory
-cd react-custom-scrollbars/examples/simple
+cd rc-custom-scrollbars/examples/simple
 npm install
 npm start
 ```
