@@ -1,9 +1,10 @@
 rc-custom-scrollbars
 =========================
 
-[![npm](https://img.shields.io/badge/npm-react--custom--scrollbars-brightgreen.svg?style=flat-square)]()
-[![npm version](https://img.shields.io/npm/v/rc-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/rc-custom-scrollbars)
-[![npm downloads](https://img.shields.io/npm/dm/rc-custom-scrollbars.svg?style=flat-square)](https://www.npmjs.com/package/rc-custom-scrollbars)
+[![travis status](https://travis-ci.com/lamhieu-vk/react-custom-scrollbars.svg?branch=master)](https://www.npmjs.com/package/rc-custom-scrollbars)
+[![npm](https://img.shields.io/badge/npm-rc--custom--scrollbars-brightgreen.svg)]()
+[![npm version](https://img.shields.io/npm/v/rc-custom-scrollbars.svg)](https://www.npmjs.com/package/rc-custom-scrollbars)
+[![npm downloads](https://img.shields.io/npm/dm/rc-custom-scrollbars.svg)](https://www.npmjs.com/package/rc-custom-scrollbars)
 
 * frictionless native browser scrolling
 * native scrollbars for mobile devices
