@@ -109,7 +109,7 @@ npm run test:cov
 There is bug in orignial Repo (https://github.com/malte-wessel/react-custom-scrollbars)
 Bug - https://github.com/malte-wessel/react-custom-scrollbars/issues/261
 Which https://github.com/lamhieu-vk/react-custom-scrollbars have fixed, so we forked and published 
-> 
+> npm i @kartikag01/react-custom-scrollbars --save
 
 ## License
 
