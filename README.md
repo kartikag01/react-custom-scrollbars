@@ -19,7 +19,7 @@ react-custom-scrollbars
 
 ## Installation
 ```bash
-npm install react-custom-scrollbars --save
+npm install @@kartikag01/react-custom-scrollbars --save
 ```
 
 This assumes that you’re using [npm](http://npmjs.com/) package manager with a module bundler like [Webpack](http://webpack.github.io) or [Browserify](http://browserify.org/) to consume [CommonJS modules](http://webpack.github.io/docs/commonjs.html).
@@ -108,7 +108,8 @@ npm run test:cov
 ### Reason for Fork 
 There is bug in orignial Repo (https://github.com/malte-wessel/react-custom-scrollbars)
 Bug - https://github.com/malte-wessel/react-custom-scrollbars/issues/261
-Which https://github.com/lamhieu-vk/react-custom-scrollbars have fixed, so we forked for safity
+Which https://github.com/lamhieu-vk/react-custom-scrollbars have fixed, so we forked and published 
+> 
 
 ## License
 
